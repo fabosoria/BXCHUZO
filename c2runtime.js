@@ -18540,6 +18540,23 @@ cr.getProjectModel = function() { return [
 		[],
 		null
 	]
+,	[
+		"t23",
+		cr.plugins_.Button,
+		false,
+		[],
+		0,
+		0,
+		null,
+		null,
+		[
+		],
+		false,
+		false,
+		9176314925746037,
+		[],
+		null
+	]
 	],
 	[
 	],
@@ -18768,6 +18785,25 @@ cr.getProjectModel = function() { return [
 					0,
 					1,
 					""
+				]
+			]
+,			[
+				[114, 463, 0, 290, 40, 0, 0, 1, 0, 0, 0, 0, []],
+				23,
+				12,
+				[
+				],
+				[
+				],
+				[
+					0,
+					"Continuar",
+					"",
+					1,
+					1,
+					1,
+					"",
+					0
 				]
 			]
 			],
@@ -19079,7 +19115,7 @@ false,false,245864949302059,false
 	true,
 	480,
 	640,
-	3,
+	1,
 	true,
 	true,
 	true,
